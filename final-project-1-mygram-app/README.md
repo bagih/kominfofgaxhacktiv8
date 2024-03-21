@@ -1,4 +1,4 @@
-# Final Project 2 - MyGram App
+# Final Project - MyGram App
 
 Final Project Kelas Scallable web services with golang dari kominfo & Hacktiv8. Membuat aplikasi MyGram
 
